@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author USER
+ * @author FelipePereira007
  */
 public class ConsumoMedioDeCombustivelEmKmL {
 
